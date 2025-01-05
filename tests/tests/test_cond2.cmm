@@ -1,0 +1,9 @@
+int main() {
+    i: int;
+    i = 0;
+    while i < 3 do {
+        write(i);
+        i = i + 1;
+    }
+    return 0;
+}

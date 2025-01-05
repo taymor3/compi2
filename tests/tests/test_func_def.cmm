@@ -1,0 +1,8 @@
+int square(x: int) {
+    return x * x;
+}
+
+int main() {
+    write(square(5));
+    return 0;
+}

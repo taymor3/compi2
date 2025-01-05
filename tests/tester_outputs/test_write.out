@@ -1,0 +1,46 @@
+(<PROGRAM>
+  (<FDEFS>
+    (<FDEFS>
+      (<EPSILON>)
+    )
+    (<FUNC_DEF_API>
+      (<TYPE>
+        (<int>)
+      )
+      (<id,main>)
+      (<(>)
+      (<)>)
+    )
+    (<BLK>
+      (<{>)
+      (<STLIST>
+        (<STLIST>
+          (<STLIST>
+            (<EPSILON>)
+          )
+          (<STMT>
+            (<WRITE>
+              (<write>)
+              (<(>)
+              (<str,Hello, world!>)
+              (<)>)
+              (<;>)
+            )
+          )
+        )
+        (<STMT>
+          (<RETURN>
+            (<return>)
+            (<EXP>
+              (<NUM>
+                (<integernum,0>)
+              )
+            )
+            (<;>)
+          )
+        )
+      )
+      (<}>)
+    )
+  )
+)

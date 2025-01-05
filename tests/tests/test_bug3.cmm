@@ -1,0 +1,8 @@
+int main() {
+    y: int;
+    read(y);
+    if y > 0 {
+        write(x);
+    }
+    return;
+}

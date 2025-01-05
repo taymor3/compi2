@@ -1,0 +1,5 @@
+int main() {
+    y = 10; 
+    write(y);
+    return 0;
+}

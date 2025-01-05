@@ -1,0 +1,17 @@
+int main() {
+    {
+        x: int;
+	x = 10;
+        {
+            y: int;
+            y = 5;
+            if x > y then {
+                while y < x do {
+                    write(y);
+                    y = y + 1;
+                }
+            }
+        }
+    }
+    return 0;
+}

@@ -1,0 +1,12 @@
+int main() {
+    {
+        a: int;
+	a = 2 * ( a - 2) / 5;
+        {
+            b: int;
+	    b = a / 2 + 1;
+            write(b);
+        }
+    }
+    return 0;
+}

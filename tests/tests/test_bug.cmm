@@ -1,0 +1,5 @@
+int main() {
+    x: int;
+    write("The answer is ", x); // Testing concatenation-like behavior
+    return;
+}

@@ -1,0 +1,8 @@
+int main() {
+    x: int;
+    read(x);
+    if x > 0 {
+        write(x); // Missing `then` keyword here
+    }
+    return;
+}

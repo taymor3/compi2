@@ -1,0 +1,9 @@
+int main() {
+    x: int;
+    read(x);
+    if x > 5 then 
+        write("x is greater than 5");
+    else 
+        write("x is not greater than 5");
+    return 0;
+}

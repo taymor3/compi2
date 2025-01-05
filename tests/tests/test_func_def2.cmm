@@ -1,0 +1,8 @@
+int foo(y, x: int) {
+    return x * y;
+}
+
+int main() {
+    write(foo(4, 5));
+    return 0;
+}

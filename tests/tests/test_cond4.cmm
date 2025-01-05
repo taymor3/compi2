@@ -1,0 +1,13 @@
+int main() {
+    x: int;
+    x = 10;
+    if x > 0 then {
+        i: int;
+        i = 0;
+        while i < x do {
+            write(i);
+            i = i + 2;
+        }
+    }
+    return 0;
+}

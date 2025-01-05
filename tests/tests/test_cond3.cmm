@@ -1,0 +1,10 @@
+int main() {
+    a, b: int;
+    b = 10;
+    a = 5;
+    if a > b && b > 0 then
+        write("Condition is true");
+    else
+        write("Condition is false");
+    return 0;
+}
